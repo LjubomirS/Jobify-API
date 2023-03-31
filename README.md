@@ -1,4 +1,4 @@
-_# Job Board API
+# Job Board API
 This repository contains a REST API built with Symfony for a job board. The API includes functionality for user authentication, company and job management, job search and filtering, applicant management, and job application management. The API also includes reporting functionality, allowing clients to view lists of applicants for a job posting and lists of jobs applied for by an applicant.
 
 ## Requirments
